@@ -1,2 +1,2 @@
 # Game
-this is sank game
+this is sank game.
